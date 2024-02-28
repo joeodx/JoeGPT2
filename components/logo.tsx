@@ -28,7 +28,7 @@ export function NamedLogoWithLink() {
   return (
     <Link href="/" className="flex flex-row items-center gap-3">
       <Logo height="24" width="24" />
-      <h3 className="font-semibold text-lg">OpenChat</h3>
+      <h3 className="font-semibold text-lg">JoeGPT</h3>
     </Link>
   );
 }
